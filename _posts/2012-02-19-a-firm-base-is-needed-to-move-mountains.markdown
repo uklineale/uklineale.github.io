@@ -16,6 +16,7 @@ With humility comes the ability to change. Your identity isn't of the utmost imp
 
 If you noticed the 'safety' tag on this post, this relates to a martial arts tactic my first jujitsu instructor taught me. "Safety, position, attack". When sparring, make sure you're safe, then worry about maintaining dominant position, then worry about finishing the fight. I'll elucidate the other two in later posts. Our safety resides in our self-confidence, our humility, and our peace with death.  
 
+Peace out!
 
 [yc]: https://en.wikipedia.org/wiki/May_you_live_in_interesting_times
 [moloch]: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
