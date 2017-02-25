@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Shades of Gray
 email: neelk1123@gmail.com
-description: Computer security, meditations, and (mostly) verbal diharrhea - Neel Kuila
+description: Computer security, meditations, and love of life- Neel Kuila
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
