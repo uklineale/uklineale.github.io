@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smile Like a Ghost
-date: 2012-02-21
+date: 2017-02-21
 categories: zen being short
 ---
 
@@ -11,6 +11,6 @@ Nod to the homeless vet who only acts crazy to keep away trouble. Watch that fam
 
 Now imagine yourself invisible, inaudible, and intangible: a ghost for all practical purposes. All the love and life you've ever had are constrained only to you. The wind blows through you. How do each of the lives above change?
 
-Life goes on without us. Most would barely notice your absence. 
+Life goes on without us. Most would barely notice your absence.
 
 Thankfully, you're still alive and corporeal! Make sure people notice your presence.
