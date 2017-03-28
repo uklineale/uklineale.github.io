@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Mental health, musings, and the apparent realm of [magic][interview].
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I don't want to spend much time writing. I prefer doing. So I do and keep things terse. Rambling pains me, as it's a loss of time. I consider myself a man wounded fatally, and act as such. This is the last life I get, and I better use it. However, I've had so much help from articles online I would consider it unfair not to at least try and pay it forward. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[interview]:https://aphyr.com/posts/340-acing-the-technical-interview
