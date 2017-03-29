@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: On Homicide
 date: 2017-03-16
 ---
