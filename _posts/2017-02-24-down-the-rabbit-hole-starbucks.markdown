@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Down the Rabbit Hole: Starbucks
+title: Down the Rabbit Hole Starbucks
 date: 2017-02-24
 ---
 
