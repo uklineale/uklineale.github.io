@@ -1,7 +1,7 @@
 ---
 layout:post
-title: On Killing - Others
-date: 03/16/2017
+title: On Homicide
+date: 2017-03-16
 ---
 **IF YOU HAVE PTSD: Be warned. I describe the struggles, the strange tics, the feeling like a husk of a person, and the alienation I felt and feel. I also discuss solutions and acceptance, but *if you do not feel comfortable confronting it, my descriptions below may trigger something.* If you need help dealing with it, I cannot stress enough though that *you are not alone*. Reach out to someone you trust or someone you can relate to. Get professional help if that's more your style. Every person is different, so every solution needs to be too.**
 
