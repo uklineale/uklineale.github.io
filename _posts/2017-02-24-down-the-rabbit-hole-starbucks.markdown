@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Down the Rabbit Hole: Starbucks
-date: 02-24-2017
+date: 2017-02-24
 ---
 
 Trying to harmonize my want (some say need) to connect with my want to dive into the security mindset, I took a trip with the gang down to Harris Teeter while they picked up fried chicken and ice cream. I'll admit I got super lucky when I say I don't crave that food.
