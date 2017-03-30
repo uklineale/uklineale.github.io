@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Mental health, musings, and the apparent realm of [magic][interview].
+Most everything is nuanced. Things aren't black and white, and there's more than fifty shades of gray. Also, depression is a beast that sucks the color from your life and the dreams from your soul. Being able to elucidate your pains can often provide relief for you and sparks for kinfolk. Also, most skills aren't so bad if you suck up sucking at them for a sec.
 
-I don't want to spend much time writing. I prefer doing. So I do and keep things terse. Rambling pains me, as it's a loss of time. I consider myself a man wounded fatally, and act as such. This is the last life I get, and I better use it. However, I've had so much help from articles online I would consider it unfair not to at least try and pay it forward. 
-
-[interview]:https://aphyr.com/posts/340-acing-the-technical-interview
+If you can be glad when sad, then you rock. If this helps anyone, I don't need to know.
