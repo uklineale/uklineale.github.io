@@ -3,7 +3,7 @@ layout: post
 title: On Homicide
 date: 2017-03-16
 ---
-**If you have PTSD, please please please don't do it alone. There's no point in pride, or its sister, shame. Doing it alone doesn't get you a cookie. There are pros who can help.**
+**If you have PTSD, please please please don't go it alone. There's no point in pride, or its sister, shame. Doing it alone doesn't get you a cookie. There are pros who can save you years of struggle.**
 
 Brace yourself, this post will be longer than you, me, and anyone in between could anticipate. It will be long, rambling, and make me cry several times. I feel no shame, because lives are no small matter. I feel no shame because I draw my strength from my struggles. I feel no shame because no one is whole, everyone is broken, and there is nothing wrong with it.
 
