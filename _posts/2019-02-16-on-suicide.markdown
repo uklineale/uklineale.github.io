@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Suicide
-date: 2018-06-30
+date: 2019-02-16
 ---
 
 **If you have depression, please please please don't go it alone. There's no point in pride, or its sister, shame. Doing it alone doesn't get you a cookie. There are pros who can save you years of struggle.**
