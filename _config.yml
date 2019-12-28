@@ -17,9 +17,8 @@ title: The Infinite Churn
 email: neelk1123@gmail.com
 description: Computer security and the love of life through the appreciation of death- Neel Kuila
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://uklineale.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  uklineale
 
 # Build settings
 markdown: kramdown
