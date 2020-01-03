@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Infinite Churn
 email: neelk1123@gmail.com
-description: Computer security and the love of life through the appreciation of death- Neel Kuila
+description: Rediscovering ancient wisdoms while exploring modern software develoment, mental health, and meditation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uklineale.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  uklineale
