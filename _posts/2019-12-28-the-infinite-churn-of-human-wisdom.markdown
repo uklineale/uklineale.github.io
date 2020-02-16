@@ -6,6 +6,14 @@ I almost [killed a kid][oh] with reflexes and intentions I could barely control 
 
 On her podcast [episode][mk], Miriam Nakamoto tripped mushrooms while an amatuer Thai boxer, and thought about accidentally killing her opponent in the ring. She saw a golden web with a hole punched through it. I had to pull over on the highway. Who knows how many people have had this vision? Over how many generations?! I am so humbled to have been shown a shared wisdom passed down for generations of the noblest apes. Wisdom is, has been, and always will be rediscovered in many different cultures in many different centuries. The least I can do is contribute my simian site to the infinite churn of human wisdom. I'm renaming this site to The Infinite Churn, because I'm still awestruck and humbled by our shared vision. 
 
+Giving up martial arts was hard for me, but the further I am from it the more I see how it's never been apart from me. A warrior is someone who knows love through strength in its many forms. To be able to use zanshin for kindness is the ultimate martial art. There are other ways to the same truth of love. To aim your bow at the roots of clinging, dissatisfaction, and despair is effective too. To find zanshin through flower arrangement is effective too. Once zen steeps your vision, it's easy to turn that vision towards compassion. If you don't use your abilities to give love to the world, you are not fighting the right battle. 
+
+Love is sometimes cutting off the finger to save the hand. You must have the clarity to let go of what causes suffering, but know what's okay to keep around. If you are not training in earnest to increase your strength, you do not know what a fight looks like. You do not understand that everyone is born to die, and this is the fight of your lifetime. 
+
+Mastery is as mundane as instinct. The master appears no different from the novice until you see their reactions. A skilled reaction is the sign of training. A skilled and spontaneous reaction is mastery. There is no more satisfying skill to garner than kindness. 
+
+"Be kind whenever posible. It is always possible. [Get good, son]" - Tenzin Gyatso, the current Dalai Lama
+
 Thank you Miriam and Joe.
 
 [dm]:https://www.dukehealth.org/find-doctors-physicians/joel-c-morgenlander-md
