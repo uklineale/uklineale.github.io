@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shades of Gray
+title: The Infinite Churn
 email: neelk1123@gmail.com
-description: Computer security, meditations, and love of life- Neel Kuila
+description: Rediscovering ancient wisdoms while exploring modern software develoment, mental health, and meditation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uklineale.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  uklineale
