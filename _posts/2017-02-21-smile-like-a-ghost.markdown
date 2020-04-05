@@ -10,6 +10,6 @@ Nod to the homeless vet who only acts crazy to keep away trouble. Watch that fam
 
 Now imagine yourself invisible, inaudible, and intangible: a ghost for all practical purposes. All the love and life you've ever had are constrained only to you. You can't impact a single thing or talk to a single person. The wind blows through you. How do each of the lives above change?
 
-Life goes on without us. Most would barely notice your absence.
+Life goes on without us. Most would barely notice your absence, like an ocean losing some foam.
 
 Thankfully, you're still alive and corporeal! Make sure people notice your presence, and make damn sure they'll miss it.
