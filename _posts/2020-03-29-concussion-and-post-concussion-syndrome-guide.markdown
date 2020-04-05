@@ -1,0 +1,16 @@
+I've had six notable concussions in my life usually about a year apart. My fifth one almost killed me. While unconscious, I had a vision of a stained glass Buddha telling me I was near death. My sixth can make me unable to walk, talk, or think. Concussions are no joke. The media will often show someone getting knocked out for an hour as no big deal, but being unconscious for more than a few minutes is a sign of significant brain damage. Not even the best football players, special forces operators, or martial artists can withstand years of trauma. These types of trauma are considered mild Traumatic Brain Injuries (TBI). Anyone who drives a car is at risk for severe, life-altering moderate or severe TBI. As I found out during my ongoing years of recovery from Post Concussion Syndrome, there is a lot we don't know about concussions. Here's what I've found out over my experiences with three physical therapists, four neurologists, a chiropractor, an accupuncturist, and much more of the medical system than I'd prefer.
+
+*AT YOUR INURY'S PACE NOT YOUR OWN: Sleep as much as you need, cardio exercise to a constantly increasing threshold, and retrain your eyes for screens.*
+
+A couple rules of thumb before we dive into the more rigorous science that I'm _barely_ qualified for. Keep doing what you're able to. Slowly practice what you aren't able to do. Build back to normal at your body's pace *not your usual pace*. This can be incredibly slow after a significant injury. Take breaks during cognitive tasks like school or work. "Headaches are like your brain screaming at you", said my last PT who was [my best PT in RTP](https://drayer.urpt.com/locations/raleigh/). [Raleigh Neurology](http://www.raleighneurology.com/) is the best concussion rehab and diagnosis I've ever been to.
+
+Our eyes have been an incredible boon to our species' continued survival. They take in incredible amounts of info quickly enough during a single sweep of a room. Imagine the incredibly complex problems in [computer vison](https://machinelearningmastery.com/what-is-computer-vision/). Now imagine how sophisticated that could get over millions of years. You have to repair that somehow, so any slight strain on eyes can slow down the all-hands-on-deck healing scenario. Limit screen time because it is hard on our eyes. Make sure your contacts or glasses prescriptions are up to date. Go to an [*opthalmologist* _not your corner store optometrist_](https://www.allaboutvision.com/eye-doctor/choose.htm) to get checked.
+
+I went on Strattera (atomoxetine), which is a norepinephrine reuptake inhibitor. Straterra can drastically worsen your depression and/or suicidal thoughts. This means the effects can take up to a month to show up and it's not nearly as addictive as Ritalin or Adderall. Due to Ritalin or Adderall's effect on dopamine, they can be highly adictive., Don't drink, and lay off the weed. CBD can help alleviate pain, anxiety, and/or emotional stability. NSAIDs as needed for migraine relief. 
+
+Emotional instability
+- just emotional winds
+
+Exercise
+
+Separate the Body, from the Brain, from the soul
