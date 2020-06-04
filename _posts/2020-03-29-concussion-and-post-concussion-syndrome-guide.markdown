@@ -2,9 +2,26 @@ I've had six notable concussions in my life usually about a year apart. My fifth
 
 *tl;dr: You will heal AT YOUR INURY'S PACE NOT YOUR OWN: Sleep as much as you need, cardio exercise to a constantly increasing threshold, and retrain your eyes for screens. If your dizziness/nausea is troubling you see a physical therapist with expertise in vestibular rehab*
 
-A couple rules of thumb before we dive into the more rigorous science that I'm barely qualified for. Keep doing what you're able to. Slowly practice what you aren't able to do. Build back to normal at your body's pace *not the pace you think you should*. This can be incredibly slow after a significant injury, and you may slide back after a seemingly minor hit. The body will heal in its own time if you get out of its way. Take breaks during cognitive tasks like school or work. It's better to do a little less than you can instead of pushing yourself to do more. "Headaches are like your brain screaming at you", said my last PT who was [my best PT in RTP](https://drayer.urpt.com/locations/raleigh/). [Raleigh Neurology](http://www.raleighneurology.com/) is the best concussion rehab I've ever been to. 
+
+A couple rules of thumb before we dive into the more rigorous science that I'm _barely_ qualified for. 
+- Sleep.
+- Do aerobic exercise that doesn't trigger your symptoms.
+- Limit screen time.
+- Don't drink alcohol, and lay off the weed. CBD can help alleviate pain, anxiety, and/or emotional stability. NSAIDs as needed for migraine relief. 
+- Keep doing what you're able to that's part of your normal routine. 
+- Slowly practice what you aren't able to do. Build back to normal at your body's pace *not your usual pace*. This can be incredibly slow after a significant injury. Don't consider pushing yourself, because it will not help you heal faster. 
+- When in doubt about the amount of effort to put into rehab, err on the side of too little rather than too much. 
+- Take breaks during cognitive tasks like school or work. 
+- Figure out what triggers your symptoms, especially headaches. Avoid these triggers at first. Then slowly expose yourself to some of them if your normal life has these triggers. "Headaches are like your brain screaming at you", said my last PT who was [my best PT in RTP](https://drayer.urpt.com/locations/raleigh/). Dr. Glenn at [Raleigh Neurology](http://www.raleighneurology.com/) is the best concussion rehab and diagnosis I've ever been to.
+
+### General Care
+None of this advice is specific to concussion/PCS rehab, but it sets a good foundation for healing. Eat a healthy, balanced diet. 
 
 My physical body was damaged, so some of the beginning physical therapy was to loosen muscle tension around my spine. This treatment consisted of massages, dry needling, and specific stretches and exercises. The exercise was similar to the postural workouts some [trainers have posted](https://www.youtube.com/watch?v=CqTtScFQ5-c). Dry needling helped rebuild muscle that had been damaged from years of bad posture at a desk job, helping me walk and stand with proper posture. I fonud that neglecting my posture for even ten minutes would bring about moderate to severe symptoms rapidly. Thankfully, the symptoms would disappear quickly when proper posture was re-embraced. Standing meditation and yoga were particular helpful for being mindful of my posture. The flexibility and strength gained from yoga further helped support my good posture. After a while of physical treatment, some of my symptoms were under control, but I still felt nauseous, dizzy, forgetful, foggy, and generaly unwell.
+
+
+### Vision is Expensive
+Imagine a budget where the currency is chunks of work done by bodily functions. Vision is exteremely cognitively expensive, but healing is pretty expensive too. You have to balance this budget to keep healing going smoothly. Our eyes have been an incredible boon to our species' continued survival. They take in incredible amounts of info quickly enough during a single sweep of a room. Imagine the incredibly complex problems in [computer vison](https://machinelearningmastery.com/what-is-computer-vision/). Now imagine how sophisticated that could get over millions of years. You may have to repair that part of your brain while it's still functioning, so any slight strain on eyes can slow down the all-hands-on-deck healing scenario. Limit screen time because it is hard on our eyes. Make sure your contacts or glasses prescriptions are up to date. Go to an [*opthalmologist* _not your corner store optometrist_](https://www.allaboutvision.com/eye-doctor/choose.htm) to get checked.
 
 Vestibular therapy is a modern form of therapy for PCS. The vestibular system keeps your senses in sync, which keeps you experiencing a single reality instead of five. When your vestibular system is damaged, you will constantly feel dizzy, nauseous, or perturbed. The idea around vestibular rehab is provoking mild symptoms and then letting Some vestibular exercises I had to do in order of increasing difficulty: 
 - Put thumbnail sized printout of an 'E' on a blank wall. Shake your head side to side while keeping your eyes on the 'E'. Go only as fast as you need to keep the 'E' in focus. Repeat with nodding your head up and down.  
@@ -12,6 +29,13 @@ Vestibular therapy is a modern form of therapy for PCS. The vestibular system ke
 - Repeat the 'E' exercise but with a patterned, distracting background.
 - Repeat the ball toss exercise while walking a straight line.
 - Walk a straight line while keeping your eyes on a focus point. Do a full 360 turn at some point in your walk. Repeat rotating the other way. Be sure not to run into things.
+
+### Medications and Supplements
+Don't drink, as the symptoms of being drunk are fairly similar to those of a concussion. Although THC can help with migraines, lay off the weed as it can shorten your already damaged memory and attention span. CBD can help alleviate pain, anxiety, and/or emotional stability. Take NSAIDs as needed for migraine relief. [Higher quality](https://smile.amazon.com/gp/product/B01LTHMG4A/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) fish oil supplements helped my cognitive abilities, taking about a month to feel the difference.
+
+My third neurologist Dr. Glenn at Raleigh Neurology prescribed me amitriptyline, atomoxetine, and proprananol. Amitriptyline helped prevent migraines, but it took about 4 months of doctor's consulations to find the right dosage for me. Now it largely prevents chronic migraines, but it doesn't help migraines from doing things I know trigger my symptoms. For treatment of acute migraines, an NSAID like ibuprofen helps.
+
+Atomoxetine (Straterra) helps you focus, similar to Ritalin or Adderall. Atomoxetine is a norepinephrine reuptake inhibitor. Because it works on norepinephrine rather than dopamine the effects can take up to a month to show up, but it's not nearly as addictive as Ritalin or Adderall. Due to Ritalin or Adderall's effect on dopamine, they can be highly adictive, but very quick to take effect.
 
 What helped me recover the most was thresholded cardio exercise. This can even be five minutes of walking! PCS can leave your cerebral autoregulation disfunctional. This means that your brain can't regulate blood flow to it, causing excessive blood pressure which can squeeze your brain and cause symptoms. It's similar to how your electronics will get fried if lightning strikes your house. To rebuild your cerebral autoregulation, you need to do aerobic exercise that doesn't trigger your symptoms. Under a doctor's supervision, they'll conduct a test where you gradually increase exercise intensity on a treadmill while rating your symptoms every minute and measuring your heart rate. You can do exercise below that heartrate threshold, and over time you'll find that threshold increases. Be sure to get a good heartrate monitor for this. Thanks to Dr. Morgenlander at [Duke Medicine](https://neurology.duke.edu/), I felt almost completely better after two and a half months! Unfortunately, I overdid it and ended up much worse. After another eight months of recovery and vestibular rehab, I was finally able to start doing the thresholded cardio routine again. So *do not overdo it.* When in doubt, do too little rather than too much. Fight the urge to push through exercise. Do too little, not too much. 
 
