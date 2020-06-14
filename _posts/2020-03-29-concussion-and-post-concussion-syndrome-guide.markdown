@@ -15,7 +15,7 @@ A couple rules of thumb before we dive into the more rigorous science that I'm _
 - Figure out what triggers your symptoms, especially headaches. Avoid these triggers at first. Then slowly expose yourself to some of them if your normal life has these triggers. "Headaches are like your brain screaming at you", said my last PT who was [my best PT in RTP](https://drayer.urpt.com/locations/raleigh/). Dr. Glenn at [Raleigh Neurology](http://www.raleighneurology.com/) is the best concussion rehab and diagnosis I've ever been to.
 
 ### General Care
-None of this advice is specific to concussion/PCS rehab, but it sets a good foundation for healing. Eat a healthy, balanced diet. 
+None of this advice is specific to concussion/PCS rehab, but it sets a good foundation for healing. Eat a healthy, balanced diet. Do sometime of mindfulness meditation or contemplation. Get at least 3 aerobic workouts of 20-45 minutes per week. Sleep enough. Listen to your body. If it's telling you not to do that next set, or drink that next beer, don't do it. Keep up with social engagements, and try to surround yourself with friends who care about you.
 
 
 ### Heal the Hardware

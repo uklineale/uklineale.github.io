@@ -4,7 +4,6 @@ woodworking
 security
 - article for setting up an arp cache attack lab
 - Facebook-Contrabanned
-- Github found vulnerabilities on this site. Exploit them.
 
 
 - Headspace talks/ Zen in Archery: observer, arrow, and observed are one moment
@@ -12,9 +11,6 @@ security
 - Windhorse / Firebending: summoning strength from your internal fire
 - Headspace monism / Shambala archer's clarity: view a moment untainted
 
-MU
-- Not one, not many, just not.
-- Not conception.   
 
 
 
