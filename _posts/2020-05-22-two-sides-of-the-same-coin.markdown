@@ -5,8 +5,10 @@ To illustrate the coin these two approaches illuminate, I'll use Rob Burbea's [_
 A good friend gave me Thomas Merton's [_New Seeds of Contemplation_](https://www.goodreads.com/work/quotes/1133302-new-seeds-of-contemplation). _New Seeds_ is a phenomenal bundle of notes from a Christian monk named Thomas Merton. He organized his notes during his years of contemplation (or meditation), with many, many wisdoms on the fundamental nature of God. In some versions, he prefaces his book by saying how he is merely one of many Christian scholars, monks, and explorers realizing the glory of emptiness and God's plan.
 
 Shaving away at either nothing or everything - both words fall short 
+God is said to be all-encompassing, "the First and Last, the beginning and the end". Emptiness is similar: "Because things exist, they are empty. Because they are emtpy, they exist"
 
 God and emptiness
 
 Heavan and Nirvana
 - ["The obvious question that most people have at this point is: what is it like? After all, it’s Nirvana – which is synonymous with “heaven” in the minds of many. There are a lot of confused ideas about what it is (or isn’t). My recommendation is to expect nothing – literally."](https://alohadharma.com/2011/06/29/cessation/)
+- 
