@@ -8,7 +8,3 @@ Been into haikus lately because of my latest rehab.
 So identities  
 To not be trapped in one is  
 Free at last, free at-  
-
-We will rise for our
-Brothers taken too damn soon
-So none need to kneel
