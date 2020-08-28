@@ -1,9 +1,3 @@
----
-layout: post
-title:  Use Your Mind to the Hilt
-date: 2017-02-24
----
-
 Hard work without expectation is the currency of freedom. It is no different for skill building. Some things take days to get good at, and there's an entire [industry][games] devoted to giving you that accomplished feeling. Some things are the other side of the spectrum taking years to master. Days go by where you don't feel better, but the months tell a different story. Even the smallest drops will fill up the bucket with time.
 
 If you have the presence of mind afforded by a healthy amount of sleep, physical activity, and/or meditation, good habits are as easy as frequently and willingly putting in small drops. Small bursts of effort keep burnout at bay and scheduling problems a bygone. The best advice I've ever got for training precision, be it for arrows, melodies, or shapes is to practice until your fine muscle control is fatigued. Five rounds of three arrows max. Beyond that you're practicing bad habits.
