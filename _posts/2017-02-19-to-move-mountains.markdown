@@ -14,7 +14,7 @@ Humility is of essence here, and it comes from a respect for death. Understand t
 
 With humility comes the ability to change. Your identity isn't of the utmost importance. Maybe it's not so important to drive that truck, or wear that watch, or ignore homeless outcastes just to fit in. You're still you. You are confident that you can bend to the situation and always be you. Hell, the real you might always be bent out of shape, and that's completely alright. Be careful though, self analysis is an extremely subtle shade of gray. It is important to distinguish when you have a trait that's a keeper and when you're clinging to a sense of identity. Aim for traits that you're proud helps others. Aim for being happy to help others. There are win-win situations everywhere, but you need to conquer your pitfalls. Understand what your avarice, your fear, your apathy feels like, and ruthlessly tame them. Harmonize with your beasts. If needed, [slaughter them like pigs][slaughter].
 
-Our hope resides in our self-confidence, our humility, and our peace with death. Peace out!
+Our hope resides in our self-confidence, our humility, and our peace with death. Peace out.
 
 [yc]: https://en.wikipedia.org/wiki/May_you_live_in_interesting_times
 [moloch]: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
