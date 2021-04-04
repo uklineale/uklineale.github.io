@@ -11,4 +11,4 @@ If you believe the question of "how much meaning is in the universe" needs an an
 
 The world is meaningless and people carve out their own meaning inherently by existing. But for practicing nihilists, none of this matters :) 
 
-Like most religions or perspectives, it's done best _a la carte_. 
+Like most religions, philosophies, or perspectives, it's done best _a la carte_. 
