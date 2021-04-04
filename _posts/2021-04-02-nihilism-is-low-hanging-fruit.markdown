@@ -6,4 +6,9 @@ True meaninglessness would not even raise the question, but nihilism has both ra
 
 ![If the left was meaninglessness and the right was meaningfulness, the universe would reject your spectrum (if it could reject anything)](https://www.scholastic.com/content/parents/en/school-success/learning-toolkit-blog/number-lines/_jcr_content.img.full.high.png)
 
-If you believe the question of "how much meaning is in the universe" needs an answer, and you still believe that answer is "none", you have imposed your own meaning on the universe. You've now slipped into existentialism. The world is meaningless and people carve out their own meaning. Nihilists usually still speak a language that conveys meaning, so it is impossible to practice nihilism.
+If you believe the question of "how much meaning is in the universe" needs an answer, and you still believe that answer is "none", you have imposed your own meaning on the universe. You're slipping into existentialism. 
+![extistentialism is for the bros](https://i.redd.it/5sn4xddkcl851.jpg)
+
+The world is meaningless and people carve out their own meaning inherently by existing. But for practicing nihilists, none of this matters :) 
+
+Like most religions or perspectives, it's done best _a la carte_. 
