@@ -6,4 +6,4 @@ For instance, I thought about how most of my friends had moved away. Normally, I
 
 Interestingly, depression didn't exist during awareness of awareness meditation. It exists as a filter on my thoughts, and depends on a timeline of myself. Since our awareness exists separately of both of these, there was no ground for depression to stand on. I cleansed the depressive viewpoints lingering with another dose of samadhi.
 
-Someone once said, "Depression is like a tunnel that seems like a cave." Meditation let's my awareness remind me that I'm in a tunnel with many loving folks supporting me.
+Someone once said, "Depression is like a tunnel that seems like a cave." Meditation let's my awareness remind me that I'm in a tunnel with many loving folks supporting me on both sides.
