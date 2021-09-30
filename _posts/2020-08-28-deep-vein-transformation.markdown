@@ -4,10 +4,10 @@ Tl;Dr:
 - Blood clots can be fatal in seconds.
 - A clot is always at risk to move, and it moving to your lungs can kill you in seconds or leave you with permanent damage.
 - Caused by long periods of sitting (flights, drives, bedridden).
-- Symptoms are warmth, 
-- Highest risk in legs. 
+- Symptoms are warmth, pain that feels like a muscle cramp, and 
+- Highest risk in legs. Most likely to occur *a few weeks after a long period of sitting*.
 - Wear 20-30mmHg compression socks during long flights or drives.
-- 
+- Pregnant women are at risk
 
 Blood clots are extremely serious. They occur most commonly in legs, although they can happen in your arms too. The most common danger is a clot moving into your lungs, which is called a pulmonary embolism (PE). The closer a clot is to your lungs, the more serious the clot is. *Pulmonary embolism can take your life in seconds!* Less commonly, clots can move to your brain or heart and cause a stroke or heart attack. Some of the gnarlier organ damage cause by COVID-19 is due to blood clots. The warning signs are swelling, warmth, and pain at the clot. *Some clots can show no symptoms!!* 
 
@@ -19,4 +19,4 @@ For treatment, I got put on an anticoagulant called Xarelto. Anticoagulants slow
 
 To help with the pain, I wear compression socks during the day. They are socks that gradually loosen as they go up your feet. This helps keep blood from pooling in your feet and ankles. 
 
-Although it was painful, I try to never waste a crisis. On viewing my mortality, the ultimate truth (emptiness/God) and mundane truth (the present reality) are inseparable. Nirvana is not in a smidgen separate from samsara. This reality is both a dissatisfactory trap and blissful liberation, entirely dependent on the viewer. With the right view, we can swallow suffering, use it to fuel our drive to reduce suffering. This will nourish our soul until our lease on life expires. I was given a hell of a birthday present.
+Although it was painful, I try to never waste a crisis. On viewing my mortality, the ultimate truth (emptiness/God) and mundane truth (the present reality) are inseparable. Nirvana is not in a smidgen separate from samsara, heaven cannot exist without hell. This reality is both a dissatisfactory trap and blissful liberation, entirely dependent on the viewer. With the right view, we can swallow suffering, use it to fuel our drive to reduce suffering. This will nourish our soul until our lease on life expires. I was given a hell of a birthday present.
