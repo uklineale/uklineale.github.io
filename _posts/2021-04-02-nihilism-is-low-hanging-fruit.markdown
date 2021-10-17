@@ -4,11 +4,16 @@ Nihilism says there is no meaning to anything, but this is a subtle anthropomorp
 
 True meaninglessness would not even raise the question, but nihilism has both raised _and_ answered the question. A nihilist would've fallen to Ganto's ax.
 
-![If the left was meaninglessness and the right was meaningfulness, the universe would reject your spectrum (if it could reject anything)](https://www.scholastic.com/content/parents/en/school-success/learning-toolkit-blog/number-lines/_jcr_content.img.full.high.png)
-If the left was meaninglessness and the right was meaningfulness, the universe would reject your spectrum if it could reject anything.
+<p align="center">
+  <img width="320" height="320" src="https://www.scholastic.com/content/parents/en/school-success/learning-toolkit-blog/number-lines/_jcr_content.img.full.high.png">
+  <p> If the left was meaninglessness and the right was meaningfulness, the universe would reject your spectrum if it could reject anything. </p>
+</p>
+
 
 If you believe the question of "how much meaning is in the universe" needs an answer, and you still believe that answer is "none", you have imposed your own meaning on the universe. You're slipping into existentialism. 
-![extistentialism is for the bros](https://i.redd.it/5sn4xddkcl851.jpg)
+<p align="center">
+  <img width="320" height="320" src="https://i.redd.it/5sn4xddkcl851.jpg">
+</p>
 
 The world is meaningless and people carve out their own meaning inherently by existing. But for practicing nihilists, none of this matters :) 
 
