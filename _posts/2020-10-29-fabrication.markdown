@@ -1,0 +1,7 @@
+We sometimes fabricate harmful things, such as jealousy, anger, or greed. To varying degrees, every experience we can possibly feel is fabricated. We do not taste a fruit. Our tongue reacts with the food, and our mind interprets the chemical reactions as the taste of the fruit. There's a lot of focus in seeing things as fabricated and letting them cease. At some point, there is too much focus on such cessation.
+
+Less mention is given to when fabrication is helpful. There is no escaping our mind, so there is no escaping the cycle of fabrication. Meditation is fabricating a ladder to "rise" above the cycle. Eventually, practice must evolve from trying to cease fabricating, to understanding that all things are fabricated to some degree. Meditation is still just fabricating though. 
+
+When all viewpoints are empty, any view point can take hold. A skilled meditator at this point can control what to fabricate. You can summon samadhi, jhanas, and even fruits of cessation (nirvana). 
+
+I've switched from emptiness practices to mainly metta (loving-kindness) practices.There is no further benefit for me to sit in nirvana. Now it is time to fabricate love. It is time to learn material skills that facilitate spreading love. Extending the circle of love is a life's labor. Nothing to it but to do it!

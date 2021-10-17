@@ -4,7 +4,7 @@ title: Caught in Between
 date: 2019-04-19
 ---
 
-I wrote this poem over some lunch breaks at my first internship. This was after my last suicide attempt, being homeless, nearly killing two kids, and the cusp of my independence.
+I wrote this poem over some lunch breaks at my first internship. This was after my last suicide attempt, being homeless, nearly killing two kids, and the cusp of my freedom from a chaotic home life.
 
 ---
 
