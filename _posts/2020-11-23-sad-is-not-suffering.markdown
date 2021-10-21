@@ -1,4 +1,4 @@
-My dreams have been emotional lately. A week ago, I recounted painful parts of my first and current concussion recoveries.
+My dreams have been emotional lately. A week ago, I recounted painful parts of my first and current concussion recoveries. It ended in insight though, which is what matters. 
 
 All through my teenage years, I didn't value my intelligence and saw it as a curse keeping me from fitting in. I tried to avoid opportunities like lab internships and better high schools. I drank, smoked, and fought way too much. I went too hard and got knocked out by a new fighter in our MMA school. I dreamt about that knockout and the car ride back home after. Powerful emotions kept me awake.
 
