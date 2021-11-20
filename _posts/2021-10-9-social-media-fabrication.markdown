@@ -1,0 +1,1 @@
+Everything fabricates. Social media is no exception. What fabrications do the different platforms incentivize? How do they differ between platforms? 

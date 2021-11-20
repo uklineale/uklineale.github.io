@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This website is my best attempt to bring apparent opposites closer together. Exploring modern reincarnations of ancient wisdoms.
+Opposites are sometimes more orthogonal than they seem, and many wisdoms sketch at the truth hidden in opposites. This is a modern mashup of ancient wisdoms in the hope it helps us find our light and peace.

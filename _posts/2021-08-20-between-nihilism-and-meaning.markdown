@@ -1,6 +1,9 @@
 Life has no inherent meaning. Several religions accept and extend this fact. Nihilism is low hanging fruit. It is an extreme, and extremes are easy to believe. Balance takes practice. Existentialism is our perception's imposed meaning on the meaninglessness of life. Emptiness is both an undoing of this perception, and, to me, a reinforcement of it in a subtle, almost fractal way.
 
-![pic](https://i.imgur.com/uKTFvEt.jpeg)
+<p align="center">
+  <img width="320" height="320" src="https://i.imgur.com/uKTFvEt.jpeg">
+</p>
+
 
 Not only is there no higher purpose, but there isn't even a someone to have meaning in the first place. If this sounds bleak, don't worry: there's a beautiful freedom to it with the right perspective. Its only bleak from a person's perspective. It is not bleak from the perspective of wheat. The smartest thing wheat did for its entire species was be tasty to humans. It gets to feel the cool summer nights, the light of a silver moon, bathe in an afternoon thunderstorm, and wave in the wind. Life exists to live.
 
