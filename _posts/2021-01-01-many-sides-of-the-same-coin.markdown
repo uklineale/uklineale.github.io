@@ -12,10 +12,10 @@ A good friend gave me Thomas Merton's [_New Seeds of Contemplation_](https://www
 
 So let's start with broad, debatable defintions! Emptiness is interdependence. Emptiness is a fundamental nature, in that nothing exists on its own, and everything is an interconnected expression of this fundamental nature. We'll look at a more detailed example of emptiness later. God is the loving force that created the universe. God is said to be all-encompassing, "the First and Last, the beginning and the end". Emptiness is similar: "Because things exist, they are empty. Because they are emtpy, they exist." A chapter in _New Seeds of Contemplation_ is even called "Everything That Is, Is Holy". Overlaps quite a bit.
 
-As their underlying concepts, both emptiness and God are chains of cause-and-effect. God is also the first cause, as well as the chain of cause-and-effect. Buddhism [chooses not to answer](https://www.youtube.com/watch?v=ERm_WNxGs1U) what was the first cause of the universe, as it doesn't help you towards unshakeable happiness. The Dalai Lama has said ["If science proves some belief of Buddhism wrong, then Buddhism will have to change. In my view, science and Buddhism share a search for the truth and for understanding reality."](https://www.dalailama.com/news/2005/our-faith-in-science). Ecology is the study of the interconnectedness of beings. Truth seekers are a rare folk, but they're in all walks of life.
+As their underlying concepts, both emptiness and God are chains of cause-and-effect. God is also the first cause, as well as the chain of cause-and-effect. Buddhism [chooses not to answer](https://www.youtube.com/watch?v=ERm_WNxGs1U) what was the first cause of the universe, as it doesn't help you towards unshakeable happiness. The Dalai Lama has said ["If science proves some belief of Buddhism wrong, then Buddhism will have to change. In my view, science and Buddhism share a search for the truth and for understanding reality."](https://www.dalailama.com/news/2005/our-faith-in-science). Ecology is the study of the interconnectedness of beings. Every plant and animal can trace to roots of its energy back to the sun. Truth seekers come from all walks of life.
 
 <p align="center">
-  <img src="https://imgur.com/gallery/PJgM9mF">
+  <img height="320" width="320" src="https://i.imgur.com/WEUCRxp.jpeg">
 </p>
 
 The fruits of truth are peace, creativity, and kindness. To attain the generous, joyful, creative qualities of monks, Christianity and Buddhism point practitioners in seemingly opposing directions: fullness and emptiness, respectively. Both paths require a bit of the other however. In Christianity, we are asked to manifest God's will and allow God's light to shine through our souls and create generosity, love, and beauty for His sake. To do so, we have to empty and purify our personality until it is refined enough to let the light through. In Buddhism, we are asked to negate that anything exists disconnected from the universe (most importantly the self), the void of which we can relax into to create spontaneous, joyful, loving actions. After understanding that everything we percieve is fabrication, we must then choose what to fabricate. Both sides of the coin must be integrated into our subconscious mind to be truly liberated. 
@@ -37,7 +37,7 @@ Although seeing how improving yourself affects the outer fringes of the world ca
 Keep looking. You see the forest manager who passed this tree over for a few years before deciding it could be harvested one year. You see the logger who actually harvested the tree. You hear the song that their parents fell in love to. Can you see the love their parents poured into them? What if their parents never immigrated to America? How can this sheet of paper have existed without the sun, without the song, without the son? 
 
 <p align="center">
-  <img src="https://keep.google.com/u/0/media/v2/1VpC_6vFFltUJZXh205cnIF33a495y6w3-jsmydjibKw7ypbDf3lIsL0q1ez23y4rL22V/1eB1WjSUkbUezwkv2ZF0eXUxedcwPfEYlQfGB_6MDmNkHIoJLi_TJBsyZRJ45-kjKdjoi?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp%2Caudio%2Faac&sz=2220">
+  <img width="480" height="620" src="https://lyricalzen.com/wp-content/uploads/2019/08/img_1158-819x1024.png">
 </p>
 
 
