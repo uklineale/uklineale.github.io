@@ -1,3 +1,9 @@
+---
+layout: post
+title: "DRAFT: Many Sides of the Same Coin"
+date: 2017-01-01 22:00:00 -0500
+---
+
 The pandemic and various other factors have lead to a plague of darkness across many minds. I'm not the brightest guy, but it seems there is a lack of light. Ways to generate internal happiness have existed in many forms over history. Religion is history's first major proposal for a way to live a joyful, fulfilled, and engaging life. I lump these qualities together under the word "happiness" in this article. As the [happiness technology](https://en.wikipedia.org/wiki/Philosophy_of_happiness) progressed, other secular philosophies came about, like Stoicism, [logotherapy](https://www.pursuit-of-happiness.org/history-of-happiness/viktor-frankl/), or distinguishing [happiness from satisfaction](https://www.haaretz.com/israel-news/.premium.MAGAZINE-why-nobel-prize-winner-daniel-kahneman-gave-up-on-happiness-1.6528513). All this to say, there are plenty of options that probably mesh with your tolerance of over-the-top mysticism.
 
 I don't intend to offend anyone with this post. I seek to unify seemingly disparate philosophies because at the end of the day we're all on this Earth together. I hope I have paraphrased these wisdoms faithfully. If not, well that's what happens when you've got a broken brain. I believe Christianity and Buddhism point to a similar truth. I'm no scholar, so I can only observe these two. Many others have outlined how there are as many paths to the same truth as there are people. This article goes out to the Truth Seekers. 
