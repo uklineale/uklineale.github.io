@@ -39,7 +39,7 @@ Although seeing how improving yourself affects the outer fringes of the world ca
   <img src="https://imgs.xkcd.com/comics/campfire.png">
 </p>
 
-Keep looking. You see the forest manager who passed this tree over for a few years before deciding it could be harvested one year. You see the logger who actually harvested the tree. You hear the song that their parents fell in love to. Can you see the love their parents poured into them? What if their parents never immigrated to America? How can this sheet of paper have existed without the sun, without the song, without the son? 
+Keep looking. You see the forest manager who passed this tree over for a few years before deciding it could be harvested one year. You see the logger who actually harvested the tree. You hear the song that their parents fell in love to. You see the helpful person who fixed the future mother's flat tire on her first date with her future husband. How can this exact sheet of paper have existed without the sun, without the song, without the son? 
 
 <p align="center">
   <img width="480" height="620" src="https://lyricalzen.com/wp-content/uploads/2019/08/img_1158-819x1024.png">
