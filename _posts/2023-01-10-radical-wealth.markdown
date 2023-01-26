@@ -10,6 +10,8 @@ Humility makes me the best leader I can be.
 
 Service makes me happy.
 
+Salvation lies in love alone.
+
 Being present cures my fear of the passage of time and death.
 
 Forgiveness cures my righteous (and too often unrighteous) anger.
