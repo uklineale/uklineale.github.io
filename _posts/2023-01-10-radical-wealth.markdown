@@ -10,7 +10,7 @@ Humility makes me the best leader I can be.
 
 Service makes me happy.
 
-Salvation lies in love alone.
+Love leads to salvation.
 
 Being present cures my fear of the passage of time and death.
 
