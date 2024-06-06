@@ -4,4 +4,4 @@ Less mention is given to when fabrication is helpful. There is no escaping our m
 
 When all viewpoints are empty, any view point can take hold. A skilled meditator at this point can control what to fabricate. You can summon samadhi, jhanas, and even fruits of cessation (nirvana). 
 
-I've switched from emptiness practices to mainly metta (loving-kindness) practices.There is no further benefit for me to sit in nirvana. Now it is time to fabricate love. It is time to learn material skills that facilitate spreading love. Extending the circle of love is a life's labor. Nothing to it but to do it!
+I've switched from emptiness practices to mainly metta (loving-kindness) practices. My cup is full, so now I can pour it into outhers. Now it is time to fabricate love. It is time to learn material skills that facilitate spreading the blessings. Extending the circle of love is a life's labor. Nothing to it but to do it!
