@@ -13,10 +13,10 @@ Getting the house plans
 We wanted something that's simple, has enough room for our familiy to grow, and is all ours. 
 
 Fighting for permits
-The town wanted to withhold our permits until we signed over the roadway to them. We felt like we were being extorted! We wanted protections for agricultural uses, hunting, and outbuildings. We went back and forth about whether legal protections were possible, and eventually needed to lawyer up.
+At first, the town played nice with us. They supported our bid to have animals, hunt, fish, and grow crops on our couty property. Right as we were about to sign, the planning director dropped a bomb on us. He said that building on land that was within 100ft of the city forced annexation. Annexation means you become part of the town, pay town taxes, and must tie in to the town water and sewer supply line. This didn't seem right. By his interpretation, you could build a mile away from the town limits but still be forced into annexation. Mohsin and I dug into the town ordinances and found what the planning director was referencing. It turns out you must annex only if your house is within 100ft of a city utility. We had enough land to distance ourself from the one sewer line near us. After clearing this up, I applied for permits. The town was withholding our permits until we signed over the roadway to them. The town manager said "hold them up until we have what we need." We felt extorted! We just wanted protections for agricultural uses, outbuildings, hunting, and fishing. We went back and forth about whether legal protections were possible, and eventually needed to lawyer up.
 
 Grading
-In the mean time, my site prep guy said we could be a dump site for fill dirt. We got over 300 dump truck loads of dirt over four months for free while we were fighting for permits. We were able to build up a pad for the house
+In the mean time, my site prep guy said we could be a dump site for fill dirt. We got over 300 dump truck loads of dirt over four months for free while we were fighting for permits. We were able to build up a pad for the house and significantly regrade. What used to be a swampy low lying spot was now a peak.
 
 Footers and foundation
 Muddy conditions costed extra due to getting a concrete pump truck. 
