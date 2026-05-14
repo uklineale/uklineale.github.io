@@ -9,8 +9,15 @@ This experience has solidified my viewpoint on many things.
 6. Nothing is stopping you from learning besides yourself. Find mentors, ask dumb questions, read books, watch YouTube, try it yourself.
 7. Even if you try and fail, you've learned. You can still pay someone to do it right.
 
+
+Housebuilding lessons learned:
+- Communicate clearly and often. Stay in conversations as much as possible.
+- Think about lot orientation and pull up the plans any time you have a doubt.
+- Good subs are 80% of the battle. 
+
+
 Getting the house plans
-We wanted something that's simple, has enough room for our familiy to grow, and is all ours. 
+We wanted something that's simple, has enough room for our familiy to grow, and is all ours. We didn't think about the lot orientation though, so we had to pay extra to flip the plans along an axis to fit the property better. 
 
 Fighting for permits
 At first, the town played nice with us. They supported our bid to have animals, hunt, fish, and grow crops on our couty property. Right as we were about to sign, the planning director dropped a bomb on us. He said that building on land that was within 100ft of the city forced annexation. Annexation means you become part of the town, pay town taxes, and must tie in to the town water and sewer supply line. This didn't seem right. By his interpretation, you could build a mile away from the town limits but still be forced into annexation. Mohsin and I dug into the town ordinances and found what the planning director was referencing. It turns out you must annex only if your house is within 100ft of a city utility. We had enough land to distance ourself from the one sewer line near us. After clearing this up, I applied for permits. The town was withholding our permits until we signed over the roadway to them. The town manager said "hold them up until we have what we need." We felt extorted! We just wanted protections for agricultural uses, outbuildings, hunting, and fishing. We went back and forth about whether legal protections were possible, and eventually needed to lawyer up.
@@ -34,3 +41,13 @@ Framing with the Kost crew
 I originally set out on this venture to frame the house myself. Call it naievete, ignorance, or pride, but it was a bad decision. My HVAC sub convinced me of this after telling me I'd be spending every day for the next year framing this house. He asked me to imagine my kids as they are now. Then he asked me to picture my kids a year from now knowing I missed that entire year of their life nailing wood together. That convinced me to find a crew. 
 I struggled to find a framing crew that I trusted. I had no friends who framed. The Amish builders in my state were too far away. As I was going to accept a quote from a father and son team, a friend of mine said he's starting a construction company with his brother. This seemed like my God-given sign. The Kost brothers talked with me for months leading up to the build, coordinating materials, asking questions about the plans. Finally, I signed their contract. We met up for ramen, and John's wife held my daughter as I signed and handed over a deposit. The Kost crew was happy to let me join in the work for a few days. That experience helped me scratch my itch to frame myself. The skills to frame aren't too complicated if you've done much carpentry or furniture building at all, it still is a ton of work. There are tasks that are far more efficient if you have a team of people. John and I did a deal while sitting on the top plates.
 The trusses for half the house were a foot short because the engineers misread the wall height in this part of the house. The Kost crew and I worked on a game plan to ask for the money back. 
+
+MEP Rough Ins
+The plumber I thought I had in my corner ghosted me when it came time for it. I had to scramble for another plumber. Most of the plumbers I had referrals from didn't do new construction, but after asking each plumber who might I found one who does new home rough-ins. 
+
+My electricians were surprisingly great! After going through four different electrical quotes, I settled on a medium priced one. They ended up being familiar with custom homes, and knew exactly how to handle uncertainty in island sizes, room layouts, or even office layouts.
+
+My original HVAC guy was too busy to do my house himself and let me help, so he subbed it out to a guy he trusted fully. After meeting his sub, I knew I was in good hands. 
+
+MOLD
+Water in the crawlspace that I didn't get out soon enough. The plumber put plastic sheeting down over the water to give themselves a clean area to work. I thought I'd be nice and leave the sheeting for the other trades, but that ended up backfiring. The plastic trapped the humidity and caused perfect conditions for mold to grow. 
