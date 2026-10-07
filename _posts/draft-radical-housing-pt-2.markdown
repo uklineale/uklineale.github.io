@@ -1,0 +1,11 @@
+
+## Pt 2.
+### Insulation
+We went with fiberglass on the exterior walls, and Rockwool on the interior walls for sound dampening. There wasn't really a point to going with Rockwool on the exterior walls, as it wouldn't help with the R value that much. I'm glad that we went with 2x6 exterior walls though. If I did it again, I'd probably want 2x8 walls so we could have even more insulation. My insulation crew was top notch. Great communicators, great prices, and wildly fast. They got the house done in one day. At some point, they will come spray closed cell foam on my rim joists and do blown in fiberglass into our attic. 
+
+The owner of the company was chatting with me as he installed the batts. He had an architecture degree and worked as a CAD designer for three years before he quit. He couldn't stand it any longer. They put him in an office with no window and expected him to just churn out CAD files. He has no regrets in starting his own company. He gets more flexible hours for a similar level of pay. He works hard, insulation is unpleasant, but he still has no regrets.
+
+### Drywall
+Searching for a good drywaller took a bit of effort. Plenty of people do drywall. Few do it well. 
+
+Drywall delivery is a beast of its own. They drive it up on a huge truck with a boom, thne use the boom arm to hover a bunch of sheets outside a window. Then the drywall stockers load up sheets of drywall, two at a time, onto a cart and distribute it around the house. I should've watched the stockers as they unloaded the drywall. There were several damaged corners and edges that took the mudders a bit more time to fill. My drywall crew was great. If I had the time, I could've saved a couple of grand by hanging the drywall myself, although that would be a laborious, time-consuming effort that wouldn't have been worth the money in my opinion. Drywall is a great trade to sub out, as the pros will get this finished in a few weeks versus you taking a few months to finish it. Plus after you finish sand the mud, you'll notice every imperfection that telegraphs through the paint for decades to come in your house. Not worth it to me.
