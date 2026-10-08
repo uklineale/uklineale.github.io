@@ -1,11 +1,20 @@
+<<<<<<< HEAD
 Over the past year and a half, we've been working hard at starting a homestead with some friends. We were lucky enough to buy about 5 acres of land from a friend who had bought 17 acres. We've had plenty of ups and downs, learning how to deal with small town permitting politics, understanding the construction process, and appreciating the amount of effort that goes into every house. Through it all, this is a 
+=======
+Over the past year and half, we've been working hard at starting a homestead with some friends. We were lucky enough to buy about 5 acres of land from a friend who had bought 17 acres. We've had plenty of ups and downs, learning how to deal with small town permitting politics, understanding the construction process, and appreciating the amount of effort that goes into every house. 
+>>>>>>> fd39896340a019686fb286c3ce9ae8330edfaf76
 
 This experience has solidified my viewpoint on many things. 
 1. Consumerism is an ingredient for corporate greed. If you despise greed, start by taming your own desires.
 2. Paying your mortgage buys the bank another house or two. The house always wins unless you leave the casino.
 3. Local governments have tremendous influence over your perception of freedom. Corruption starts locally, but you have the most control locally too.
+<<<<<<< HEAD
 4. Authentic friendliness, goodwill, and ambition makes friends. Friends open doors for each other. 
 5. Peace lies in following your calling
+=======
+4. Making friends builds doors. Friends of friends will open doors.
+5. Life is short if you're not balancing your dreams and your duties.
+>>>>>>> fd39896340a019686fb286c3ce9ae8330edfaf76
 
 
 Practical housebuilding lessons learned:
@@ -18,7 +27,11 @@ Practical housebuilding lessons learned:
 
 
 ### Why did we do this?
+<<<<<<< HEAD
 #### Lifestyle
+=======
+##### Lifestyle
+>>>>>>> fd39896340a019686fb286c3ce9ae8330edfaf76
 My wife and I were sold on the FIRE (Financial Independence, Retire Early) movement. We weren't extreme consumers, we enjoyed simple things, and we knew how to invest in low cost ETFs. We were on track to retire in our 40s. By that time our kids would be in high school, and we'd have it made, right? 
 
 Wrong. Over time, I realized how backwards this movement was with kids. The essence of retiring early is time. Time to do what you want, with who you want. Money can buy your time back, but the obsession over buying your time back ironically eats up your time! Your kids are only young once, and money can't buy a time machine. 
@@ -65,8 +78,6 @@ When prepping the site for large projects like bridges or roads, you need to mov
 We were able to build up a pad for the house and significantly regrade so the land pitched water to the nearby creek. What used to be a swampy low lying spot was now a peak. We had a plateau to build on with the land sloping away, which is ideal. Drainage, grading, and vegetation are the keys to controlling water. I learned this lesson repeatedly as the thick mud would continue to prove a challenge throughout the build. Right before the footings and foundation started, Shane dug the crawlspace down 18" to make the house not tower over the landscape oddly. 
 
 ### Footers, foundation, and patio
-**Rating: Some regrets**
-
 The barren soil was ripe for turning into mud in the wet NC winters. I didn't realize mud would be such a challenge for most construction trucks. Large equipment like cranes, concrete trucks, and even excavators with tracks can get stuck in the mud. Digging out the footers went by smoothly thanks to the rain holding off for a few days. By the time it came to pour the footers though, my property was a total mudpit. My footings guy drove a mini excavator that handled fine, but he suggested hiring a concrete pump truck due to the mud and the distance from the road. That cost an extra $1300, but towing out a stuck concrete truck would cost more between the wrecker (a beefy tow truck) and paying for the concrete truck's lost time and concrete. My footings guy got the work done in one day by himself and it passed inspection with no issues.
 
 The footers were done, and the masons were up next. I got a few quotes for masons, but ended up going with a team of two older men who are some of the toughest guys I know. My mason went through nine surgeries in one year and still was laying block for my crawlspace! A mistake I didn't realize is that the footer is roughly one block (8") below what you want. I wanted a 40" crawlspace, but because of the block that gets covered over the footer, we only got a 32" crawl. It's still easy enough to work in.
