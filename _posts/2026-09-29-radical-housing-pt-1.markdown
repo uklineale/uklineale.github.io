@@ -56,6 +56,8 @@ All this left us with a distrust for the good old boys club in Angier's town gov
 ### Clearing and Grading
 This land was an overgrown swamp. It had incredibly fertile soil, but it sat pretty low compared to the neighborhood beside it. The water table was also pretty high, so there was plenty of boggy, wet soil. There were huge sweet gum trees, massive 48" oak stumps that hadn't rotted yet, and very difficult to navigate terrain. So I decided to hire a land clearing service to clear up 1.5 acres. This ended up being the best decision of this build. 
 
+![The swamp before clearing](/images/radical_housing/swamp.jpg)
+
 After making a few calls to some site prep companies, the third company I tried picked up. We talk for a bit, and the owner Shane says he's interested in the work. He asks where it is. I tell him, and he goes silent for a second before saying "Let me get to my computer". He pulls up our plot on Google Maps and tells me that he grew up on that land! His family owned and farmed several hundred acres in that area. He knew the best spots for deer, the best fishing holes, the quality of the soil, the production history of the land, and so much more. He gives me a good price for clearing and a ton of guidance on how to navigate the permitting issues. Many of the subcontractors I used came from him or from their referrals. It turns out good contractors all know each other. If you manage to find a network of good tradesmen, building a house is a breeze. Meeting Shane was the sign from God that this is the door he wants us to walk through.
 
 Since the plot was a low-lying swamp, we needed to raise the grade by a few inches over around 1.5 acres to make a decent build site. If you do the math, that's a lot of dirt! My site prep guy had a creative idea: we could be a dump site for fill dirt. 
@@ -64,14 +66,29 @@ When prepping the site for large projects like bridges or roads, you need to mov
 
 We were able to build up a pad for the house and significantly regrade so the land pitched water to the nearby creek. What used to be a swampy low lying spot was now a peak. We had a plateau to build on with the land sloping away, which is ideal. Drainage, grading, and vegetation are the keys to controlling water. I learned this lesson repeatedly as the thick mud would continue to prove a challenge throughout the build. Right before the footings and foundation started, Shane dug the crawlspace down 18" to make the house not tower over the landscape oddly. 
 
+![Cleared and graded land](/images/radical_housing/cleared_and_graded.jpg)
+
+### Well Water
+Before we could start installing the foundation, the masons needed water on site to lower the cost. We needed a well anyways. Shane suggested who he used for his home build, and they knocked it out of the park. Unfortunately, the well collapsed at around 110', so they had to re-drill it and install a liner which blew the well budget by a good bit. As they say, buy once, cry once. 
+
+![Well drilling truck on site](/images/radical_housing/well_truck.jpg)
+
 ### Footers, foundation, and patio
 The barren soil was ripe for turning into mud in the wet NC winters. I didn't realize mud would be such a challenge for most construction trucks. Large equipment like cranes, concrete trucks, and even excavators with tracks can get stuck in the mud. Digging out the footers went by smoothly thanks to the rain holding off for a few days. By the time it came to pour the footers though, my property was a total mudpit. My footings guy drove a mini excavator that handled fine, but he suggested hiring a concrete pump truck due to the mud and the distance from the road. That cost an extra $1300, but towing out a stuck concrete truck would cost more between the wrecker (a beefy tow truck) and paying for the concrete truck's lost time and concrete. My footings guy got the work done in one day by himself and it passed inspection with no issues.
 
+![Poured footings](/images/radical_housing/footings.jpeg)
+
 The footers were done, and the masons were up next. I got a few quotes for masons, but ended up going with a team of two older men who are some of the toughest guys I know. My mason went through nine surgeries in one year and still was laying block for my crawlspace! A mistake I didn't realize is that the footer is roughly one block (8") below what you want. I wanted a 40" crawlspace, but because of the block that gets covered over the footer, we only got a 32" crawl. It's still easy enough to work in.
+
+![Mud pit and crawlspace](/images/radical_housing/mud_pit_crawlspace.jpg)
 
 They had never seen a ranch house that was dug into the ground at all, and they worried it would have issues with a watery crawlspace down the road. I worried we made a mistake by putting our house in a small pit. From everything I read, it was fine, but moisture control had to be a priority. Shane and I waterproofed the exterior of the crawlspace together, and installed pipe around the perimeter for drainage. He then installed the insulation on the walls as the first phase of a crawlspace encapsulation.
 
+![Waterproofed foundation](/images/radical_housing/waterproofed_foundation.jpg)
+
 Now that the foundation was done, we could pour the patio. In Shane's network of contractors was a great concrete company recommended by several other tradesmen. We meet, and he's a super sharp Hispanic gentleman. Although my parents are the immigrants, we bond over what it's like coming to America to start a better life, and the wealth of opportunity and comfort here. He mentions he has three kids from a previous marriage to a white woman. I ask him about how to raise a mixed child without losing your heritage. He says with a sigh and slight dimming of his eyes, "it's hard work". He gives me a discount, did great work, and I look forward to hiring him again. We even got to stamp our hands into the back patio, although that darn GC messed up the location and put it partially under a post. 
+
+![Poured porches and patio](/images/radical_housing/porches.jpeg)
 
 ### Security
 While we were slowly building our house, we had some unwanted visitors. Some teens would come by our jobsite and damage materials, damage our foundation piers, and they even threw a rock through Shane's excavator! After doing some research, we set up trail cams to have near real-time alerts for any visitors. We caught pictures of them right before our foundation piers were knocked slightly askew. This means that the framing beams wouldn't sit level and the load wouldn't transfer properly, so I asked my mason to come back and fix the piers. I knocked on several neighbor's doors in nearby neighborhoods and asked if they recognized the kids in the picture. No one knew them, but they all were fired up to stay alert. At least it was a great way to meet my neighbors!
@@ -79,13 +96,19 @@ While we were slowly building our house, we had some unwanted visitors. Some tee
 We continued building our house until one night, we saw the same kids walk onto our property. We called the sheriff's department and told them to give them a stern warning but no charges. We caught them on camera running away right as the cop cars arrived. They got away, but we didn't see them again. As our patios were poured and curing, I didn't want them messing with the slabs. I staked out our house the night after the pour until 9pm and thankfully didn't see the kids again.
 
 ### Framing with the Kost crew
-I originally set out on this venture to frame the house myself. Call it naivety, ignorance, or pride, but it was a bad idea. I was influenced by the YouTubers who oslo framed their tiny cabin. My HVAC sub convinced me of this after telling me I'd be spending every day for the next year framing this house. He asked me to imagine my kids as they are now. Then he asked me to picture my kids a year from now knowing I missed that entire year of their life nailing wood together. I was sold. The search for a framing crew was on.  
+I originally set out on this venture to frame the house myself. Call it naivety, ignorance, or pride, but it was a bad idea. I was influenced by the YouTubers who also framed their tiny cabin. My HVAC sub convinced me of this after telling me I'd be spending every day for the next year framing this house. He asked me to imagine my kids as they are now. Then he asked me to picture my kids a year from now knowing I missed that entire year of their life nailing wood together. I was sold. The search for a framing crew was on.  
 
 I struggled to find a crew that I trusted. The Amish builders in my state were too far away. Right as I was going to accept a quote from a father and son team, a friend of mine said he's starting a construction company with his brother. This seemed like my God-given sign. The Kost brothers talked with me for months leading up to the build, coordinating materials, asking questions about the plans. Finally, we met up for ramen to sign the contract. John's wife held my infant daughter as I signed and handed over a deposit. 
 
-The Kost crew was happy to let me join in the work for a few days. That experience helped me scratch my itch to frame myself. The skills to frame aren't too complicated if you've done much carpentry or furniture building at all. I realized how silly I was to think of solo framing. Framing and foundation are a big job that needs a crew. There are tasks that are far more efficient if you have a team of people. After the interior walls were done, I climbed a ladder to pay John while sitting on the top plates.
+The Kost crew was happy to let me join in the work for a few days. They let me do our bedroom walls so I could forever annoy my wife that I built the room she sleeps in. The experience helped me scratch my itch to frame myself. The skills to frame aren't too complicated if you've done much carpentry or furniture building at all. I realized how silly I was to think of solo framing. Framing and foundation are a big job that needs a crew. There are tasks that are far more efficient if you have a team of people. After the interior walls were done, I climbed a ladder to pay John while sitting on the top plates.
+
+![Framing in progress](/images/radical_housing/framing.jpg)
+
+YouTube successfully brainwashed me. There are too many homesteading channels out there that emphasize how they did it all themselves as beginners with very little money. What you they often barely mention is many of them have family members in construction, don't have kids, have family help, or have some money saved up. It's not nearly as trendy to just be your own GC, sub out plenty, do the big ticket, low risk items, and otherwise hang out with your family. The clout of building it all yourself will fade, but nothing will get your time back with your kids. 
 
 The trusses for half the house were a foot short because the engineers misread the wall height in this part of the house despite the Kosts arguing they were wrong. They had to be sent back, and we needed to hire two cranes instead of one. The Kost crew and I worked on a game plan to ask for the money back. Thankfully, our lumberyard was very understanding of it and gave us a store credit for the price of the second crane rental. After three weeks of being exposed to the elements, our house was dried in!
+
+![Finished framing](/images/radical_housing/finished_framing.png)
 
 ### MEP (Mechanical Electrical and Plumbing) Rough Ins
 The plumber I thought I had in my corner ghosted me when it came time for it. I had to scramble for another plumber. Most of the plumbers I had referrals from didn't do new construction, but after asking each of them I found one who does new home rough-ins. They moved much quicker than anticipated, starting the day after I met with the owner. They were done in about 4 days. 
@@ -103,12 +126,21 @@ A lot of moisture rose up from the ground, especially since our crawlspace was s
 
 After a full three days of work, we finished. We saved around $18,000 in labor! I installed a crawlspace dehumidifier and powered it with close to 250' of extension cords. Concerned about the voltage drop burning out the motor, I splurged for 12AWG extension cords. I then capped off the crawlspace with a custom door. With a remote humidity monitor next to the front door, I was able to verify that we were controlling the humidity pretty well now. 
 
-### Siding
-I could only get a hold of one contractor to quote me for the siding, and after pricing out the materials, $7.5k in labor didn't seem reasonable. So I bought the materials, watched a bunch of YouTube videos, and experimented with some scraps until I was confident enough to start. Hanging vinyl siding isn't too hard. Solo siding is pretty difficult though. 
+![Crawlspace cleaned up](/images/radical_housing/crawlspace_cleaned_up.jpg)
+![Crawlspace door](/images/radical_housing/crawlspace_door.jpg)
 
-Managing long, droopy pieces by yourself to get them level is a challenge, having to go up and down a ladder every time you need something really slows things down, and one person cutting with one person installing makes things much much faster. I was blessed enough to have an occasional helper to hand me pieces, support the other end, or do the cutting while I hung pieces. Working through multiple heat advisories, eventually, I got it done.
+### Siding
+I could only get a hold of one contractor to quote me for the siding, and after pricing out the materials, $7.5k in labor didn't seem reasonable. So I bought the materials, watched a bunch of YouTube videos, and experimented with some scraps until I was confident enough to start putting in soffit, fascia, and siding. Hanging vinyl siding isn't too hard. Solo siding is pretty difficult though. 
+
+![Soffit and fascia installed](/images/radical_housing/soffit_and_fascia.jpg)
+
+Managing long, droopy pieces by yourself to get them level is a challenge, having to go up and down a ladder every time you need something really slows things down, and one person cutting with one person installing makes things much much faster. I was blessed enough to have an occasional helper to hand me pieces, support the other end, help move the ladders, or do the cutting while I hung pieces. Working through multiple heat advisories, eventually, I got it done.
 
 I bought too much material and found out I couldn't return it since it's a unique color. I wish I had waited before ordering more. It's money lost now, but at least I can side a future shed or sauna with matching siding. 
+
+![Front siding finished](/images/radical_housing/front_siding_finished.jpg)
+![Siding finished](/images/radical_housing/siding_finished.jpg)
+
 
 ### Roofing
 Originally, I was deadset on a metal roof. I had read that a metal roof pays for itself after the second shingle replacement. I was on the fence about paying for a standing seam roof or doing an exposed fastener metal roof myself. An exposed fastener metal roof isn't too hard to install, but you have to make sure that _every single fastener_ is installed just tightly enough. You're punching holes in your roof and covering them up with gaskets that need to be inspected and re-tightened every few years. Additionally, very few roofing companies will install an exposed fastener metal roof because one fastener tightened incorrectly means a very expensive warranty call. This was quickly going against our low maintenance and low cost preferences.
@@ -123,6 +155,8 @@ Running ethernet cable was a refreshing change of pace from the siding. Mostly o
 I wanted to have multiple access points across the house and security cameras on the four corners of the house, so I made sure to get thicker 23AWG cable and jacks that were POE++ rated for these runs. I made sure to keep an extra 2-3' of wire looped in the crawlspace or soffit so we could easily re-terminate a jack if we needed. The thicker gauge made it a bit harder to work with when it came to bends. Make sure you get tools and jacks that are rated for your wire gauge.
 
 I ran all my Ethernet drops into a single patch panel in a structured media enclosure in my office. Eventually I plan on running the cables to a rack mounted patch panel and have a homelab setup for my Jellyfin, Immich, and other servers.
+
+![Ethernet patch panel](/images/radical_housing/ethernet_panel.jpg)
 
 ### A Moment's Reprieve
 After we were dried in and the Ethernet was wired, I had a lot of subs lined up. After being away from my family for nearly every free weekend, it was a joyous time to get to spend cuddling, reading, and playing with the kids. Absence truly makes the heart grow fonder. I found myself laughing at the kids' antics that used to get me frustrated. The frustration was still there, but my mentality had shifted to gratefulness that I have kids to be frustrated with at all. The frustration is indicative of a much greater positive gift in life. 
