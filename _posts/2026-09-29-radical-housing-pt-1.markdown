@@ -5,7 +5,8 @@ This experience has solidified my viewpoint on many things.
 2. Paying your mortgage buys the bank another house or two. The house always wins unless you leave the casino.
 3. Local governments have tremendous influence over your perception of freedom. Corruption starts locally, but you have the most control locally too.
 4. Authentic friendliness, goodwill, and ambition makes friends. Friends open doors for each other. 
-5. Peace lies in following your calling
+5. Peace lies in following your calling while balancing your duties.
+6. Pay a little extra for peace of mind when it counts.
 
 
 Practical housebuilding lessons learned:
@@ -89,6 +90,43 @@ They had never seen a ranch house that was dug into the ground at all, and they 
 Now that the foundation was done, we could pour the patio. In Shane's network of contractors was a great concrete company recommended by several other tradesmen. We meet, and he's a super sharp Hispanic gentleman. Although my parents are the immigrants, we bond over what it's like coming to America to start a better life, and the wealth of opportunity and comfort here. He mentions he has three kids from a previous marriage to a white woman. I ask him about how to raise a mixed child without losing your heritage. He says with a sigh and slight dimming of his eyes, "it's hard work". He gives me a discount, did great work, and I look forward to hiring him again. We even got to stamp our hands into the back patio, although that darn GC messed up the location and put it partially under a post. 
 
 ![Poured porches and patio](/images/radical_housing/porches.jpeg)
+
+### Truck Trade
+I bought a first gen Toyota Tundra before the construction started. It was my first truck. I was clueless about trucks, but I was satisfied with being able to haul material in the bed. It needed a bit of work, but nothing too difficult. I replaced a window motor, O2 sensor, added a backup camera, and fixed an evap leak. I was proud to have a reliable vehicle. Within a few months of using it, I had learned the features I needed: 4WD, good towing capacity, at least a 6' bed, and preferably some cab space for tools. I figured I'll treat myself to a new(er) truck after the house build. 
+
+Fate gave me an opportunity sooner though. While heading back from paying my mason one evening, I hit a deer with my Tundra. It popped up out of some brush 5' from the road. The damage was substantial. The radiator was caved in, a headlight fell out, and the hood wouldn't stay latched above 25mph. I drove it straight to the mechanic where my wife picked me up.
+
+![Totaled truck after deer strike](/images/radical_housing/totaled_truck.jpg)
+
+NC Farm Bureau insurance was extremely helpful and prompt. The truck was over 20 years old, so insurance deemed it totaled with that much damage. Within a few weeks, they gave me a check for the totaled truck. I was sad to see my first truck go, but when the check came I wasn't too upset. They paid me 40% more than I paid for it! Taking the hint, I decided to find another first gen Toyota Tundra. Unfortunately, the pickings were slim this time around. I had my list of features I wanted, but no one had a Tundra in decent condition, let alone with the V8 engine and 4WD. My time was running out before I needed to haul material for the foundation water proofing. I bought a 2005 double cab Tundra with a V8. I missed a lot of the issues with it, and the issues they presented were undersold to me. The truck vibrated a ton when going 35-45mph. This wasn't a good truck, but I needed something. I didn't have any better options, even outside of the Tundra sphere. The lesson of buy once, cry once was really ground into me through the next month.
+
+I had one month between foundation and framing to get this truck ready for service. I took the vehicle to a trusted mechanic to quote me on everything that it needed. This gave me a good list of things to do, and it gave me the opportunity to research whether I could do some tasks myself. Because I'm cheap and wanted to learn, I thought the month would be an investment in my future of helping others with their auto repairs. Unfortunately, that month my family caught some disease every week. I fixed the truck's many issues while fighting off the flu, stomach virus, and a cold (maybe Covid). 
+
+![Replacing lower ball joints](/images/radical_housing/lower_ball_joint.jpg)
+
+In no particular order I fixed:
+- The ignition cylinder (couldn't turn the key occasionally)
+- Running rich (P172, P175) by cleaning the MAF and throttle body
+- Refastening the tailgate cap
+- Fixing yet another window motor
+- Tightened the parking brake
+- Replaced the lower ball joints and sway bar links
+- Battery
+- Alternator
+- Tailgate latches
+- Transmission cross member and transmission mount
+- Drive (serpentine) belt
+- Replaced all fluids (oil, transmission, differential, brake fluid)
+- Reinstalled backup camera
+
+I had a few things done as well:
+- Timing belt, thermostat, and water pump
+- Full driveshaft replacement
+- Valve cover gaskets, spark plugs, and seals
+
+Though it sucked to be wrenching on cars while retching from the stomach flu, I'm glad I got it done. Just for fun, I made a spreadsheet to track how much money I saved by doing it myself and what my hourly rate would be based on the first mechanic's quote. The serpentine belt took 25 mins and saved me $250. That's more than $500/hr! Even after the price of repairs, I still netted some money from the insurance check. Many thanks to the wonderful people on the first gen Tundra [forum](https://www.tundras.com/threads/so-you-wanna-buy-just-bought-a-1st-gen-tundra-eh.115928/), I had a reliable truck. We were ready to rock and roll.
+
+![New truck](/images/radical_housing/new_truck.jpg)
 
 ### Security
 While we were slowly building our house, we had some unwanted visitors. Some teens would come by our jobsite and damage materials, damage our foundation piers, and they even threw a rock through Shane's excavator! After doing some research, we set up trail cams to have near real-time alerts for any visitors. We caught pictures of them right before our foundation piers were knocked slightly askew. This means that the framing beams wouldn't sit level and the load wouldn't transfer properly, so I asked my mason to come back and fix the piers. I knocked on several neighbor's doors in nearby neighborhoods and asked if they recognized the kids in the picture. No one knew them, but they all were fired up to stay alert. At least it was a great way to meet my neighbors!
